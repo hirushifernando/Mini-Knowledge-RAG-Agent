@@ -1,0 +1,9 @@
+Natural language processing (NLP) is a field of artificial intelligence that helps computers process, understand, and generate human language.
+
+Common NLP tasks include text classification, sentiment analysis, translation, question answering, and text summarization.
+
+Text preprocessing can include tokenization, removing unnecessary characters, and converting text into numerical representations.
+
+Embeddings represent words, sentences, or documents as numerical vectors. Similar meanings can have similar vector representations.
+
+Transformer models such as BERT and GPT are widely used in modern NLP applications.

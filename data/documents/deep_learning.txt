@@ -1,0 +1,9 @@
+Deep learning is a branch of machine learning that uses neural networks with multiple layers to learn patterns from data.
+
+A neural network contains interconnected units called neurons. These neurons process input data through layers and produce an output.
+
+Deep learning is widely used in image recognition, speech recognition, natural language processing, and object detection.
+
+Convolutional neural networks (CNNs) are commonly used for image tasks. Transformer models are widely used for language tasks.
+
+Deep learning models often require more data and computing power than simpler machine learning models.

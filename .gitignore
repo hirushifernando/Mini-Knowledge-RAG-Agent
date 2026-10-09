@@ -1,0 +1,38 @@
+# Virtual environment
+
+.venv/
+
+# Python
+
+**pycache**/
+*.py[cod]
+
+# Environment variables and API keys
+
+.env
+.env.*
+
+Create API Key*.txt
+
+# Streamlit
+
+.streamlit/
+
+# Local vector database
+
+data/vector_store/
+
+# Model caches
+
+.cache/
+huggingface_cache/
+.cache_huggingface/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# IDE
+
+.vscode/
